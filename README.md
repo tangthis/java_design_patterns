@@ -19,6 +19,4 @@ Java设计模式实例
 > Author : tangthis
 >
 > Email  : tangthis#163.com
->
-> Weixin : jerry0914
 
